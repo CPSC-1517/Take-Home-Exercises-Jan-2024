@@ -65,7 +65,7 @@ A Room is a set of walls with or without openings. A Room represents an distinct
 
 ## Create Unit testing methods
 
- Create a unit testing project (.Net Core 8.0) called `RenoUnitTestsEx2` for this exercise. Add it to your solution. Create a class called `Room_Should` to hold your unit test code. Add a reference to your RenoSystem project to this project. The following table indicates the unit test cases to create. Unit Test names are left up to you. The required tests are outlined in the following table. You are to use NuGet FluentAssertions package within the xUnit testing project.
+ Create a unit testing project (.Net Core 8.0) called `RenoUnitTestsEx2` for this exercise. Add it to your solution. Create a class called `Room_Should` to hold your unit test code. Add a reference to your RenoSystem project to the new Unit Testing project. The following table indicates the unit test cases to create. Unit Test names are left up to you. The required tests are outlined in the following table. You are to use NuGet FluentAssertions package within the xUnit testing project.
 
 #### Unit Tests
 
