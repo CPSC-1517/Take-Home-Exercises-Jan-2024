@@ -1,6 +1,6 @@
 # OOP Training
 
-> This is the first of a set of exercises that follow the evolution of a program to manage renovation projects. This set is cumulative and will build upon previous exercises.
+> This is the next of a set of exercises that follow the evolution of a program to manage renovation projects. This set is cumulative and will build upon previous exercises.
 
 ## Overview
 
