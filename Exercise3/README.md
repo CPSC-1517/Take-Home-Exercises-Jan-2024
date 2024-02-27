@@ -1,4 +1,4 @@
-# CPSC1517-1222 Exercise 3
+# CPSC1517-1232 Exercise 3
 
 > This exercise is part of a series of exercises to manage information on Renovations. In this exercise you will create a Blazor web application project. Reno Tracker is a site to keep up-to-date with your renovation projects.
 >
