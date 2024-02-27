@@ -10,7 +10,7 @@ Upon completion of this exercise, you will have demonstrated the ability to:
 
 - use an existing class library of data models in a web application
 - implement a data entry component with input validation
-- implement a tablular report form a collection of data
+- implement a tablular report from a collection of data
 - use a CSV file for data persistence (append data, read and display)
 
 ----
