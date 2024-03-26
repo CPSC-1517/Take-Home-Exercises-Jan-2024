@@ -80,7 +80,7 @@ Your assignment will be marked based upon the following weights.
 |  | 2 | `SupplyServices.cs` BLL service class |    |
 |  | 3 | `Query.razor` setup appropriate controls for query agrument (Job) and table display (Supplies) |   |
 |  | 3 | `Query.razor.cs` Write appropriate code/post events to handle necessary bind properties, OnInitialize, and query button. |   |
-|  | 1 | `Query.cshtml.cs` Write appropriate post event to clear the page |   |
+|  | 1 | `Query.razor.cs` Write appropriate post event to clear the page |   |
 |  | 1 | User friendly error handly: consistent throughout all post events, able to handle a collection of errors   |   |
 |   | -4 max | **Penalty** -  Such as but not limited to: missing incremental commits; compile errors; incorrect project types; code separation | |   |
 | ------ | ---- | --------- |  -----|
